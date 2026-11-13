@@ -1,0 +1,49 @@
+{
+  "articles": [
+    {
+      "title": "長調性と短調性の探求①",
+      "url": "https://uriop-dogg.github.io/m2_music_math/M2-v10.2-JA-EN/index.html",
+      "date": "2026-09-20"
+    },
+    {
+      "title": "調波極性:新しい音の関係の捉え方の\"数学的\"アイデア",
+      "url": "https://uriop-dogg.github.io/m2_music_math/harmonic-polarity-JA-EN-29/index.html",
+      "date": "2026-10-31"
+    },
+    {
+      "title": "陰陽の調律法",
+      "url": "https://uriop-dogg.github.io/m2_music_math/yin-yang-tuning-JA-EN-72/yin-yang-tuning/index.html",
+      "date": "2026-11-07"
+    }
+  ],
+  "apps": [
+    {
+      "title": "倍音調律きーぼーでぃずむ - v1.1.16",
+      "url": "https://uriop-dogg.github.io/m2_apps/harmonics-keyboard-v1.1.16.html"
+    },
+    {
+      "title": "Rhythm Fourier Web",
+      "url": "https://uriop-dogg.github.io/m2_apps/RhythmFourierWeb/"
+    },
+    {
+      "title": "Tonal Wave Web",
+      "url": "https://uriop-dogg.github.io/m2_apps/TonalWaveWeb/index.html"
+    },
+    {
+      "title": "基音の知覚・シミュレータ",
+      "url": "https://uriop-dogg.github.io/m2_apps/FundamentalPerceptionWeb/index.html"
+    },
+    {
+      "title": "Harmonic Universe",
+      "url": "https://uriop-dogg.github.io/m2_apps/Harmonic_Universe_Web_v0.11.0/harmony-extractor/index.html"
+    },
+    {
+      "title": "倍音調律きーぼーでぃずむ②",
+      "url": "https://uriop-dogg.github.io/m2_apps/Harmonics_Keyboard_2_latest.html"
+    },
+    {
+      "title": "三度圏（仮）",
+      "url": "https://uriop-dogg.github.io/m2_apps/triad-chain.html"
+    }
+  ]
+}
